@@ -22,13 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/igorcamposcode">
 <img height="183em" src="https://github-readme-stats.vercel.app/api?username=igorcamposcode&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamposcode&layout=compact&langs_count=7&theme=monokai"/>
-</div>
-  
-<div style="display: inline_block" align="center" > 
-<a href="https://github.com/igorcamposcode"> 
-<img height="290em" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcamposcode&theme=monokai" alt="igorcamposcode" />
-</div> 
-  
+</div>  
 ## 
   
 ### <p style="display: inline_block" align="center"><samp> - Atualmente estudo - </samp></p><br>
