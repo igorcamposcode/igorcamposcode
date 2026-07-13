@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block" align="center" >
 <a href="https://github.com/igorcamposcode">
-<img height="183em" src="https://github-readme-stats.vercel.app/api?username=igorcamposcode&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-<img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamposcode&layout=compact&langs_count=7&theme=monokai"/>
+<img height="183em" src="https://github-stats-extended.vercel.app/api?username=igorcamposcode&rank_icon=github&show_icons=true&include_all_commits=true&theme=great-gatsby"/>
+<img height="183em" src="https://github-stats-extended.vercel.app/api/top-langs?username=igorcamposcode&langs_count=10&theme=great-gatsby"/>
 </div>  
   
 ## 
